@@ -36,6 +36,7 @@ Tools         Git · VS Code · Visual Studio · Docker (basic)
 | [Coding_Night_2026](https://github.com/mbubula6/Coding_Night_2026) | 🥇 Hackathon winner — meal prediction ML model + full-stack app |
 | [jupyter-study](https://github.com/mbubula6/jupyter-study) | ML learning path: Titanic → Logistic Regression → CNN |
 | [biblioteka](https://github.com/mbubula6/biblioteka) | C++ OOP — library management system |
+| [prediction_app](https://github.com/mbubula6/prediction-app) | Python Django ML models — silly prediction app |
 
 ---
 
