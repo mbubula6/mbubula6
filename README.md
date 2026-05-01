@@ -1,6 +1,6 @@
 # Hi, I'm Martyna 👋
 
-I'm a final-year **Technik Programista** student from Nowy Sącz, specialising in **Machine Learning & Data Science**.  
+I'm a Software Engineer specialising in **Machine Learning & Data Science**.  
 I like building things that actually work — from trained classifiers to full-stack apps shipped under hackathon pressure.
 
 ---
@@ -47,11 +47,10 @@ Tools         Git · VS Code · Visual Studio · Docker (basic)
 
 ---
 
-## 🌱 Currently
+## Currently
 
-- Finishing technikum (INF.03 ✅ INF.04 ✅)
 - Going deeper into ML — feature selection, model evaluation, real datasets
-- Looking for a **junior ML / Data role** or internship
+- Looking for a ** ML / Data role**
 
 
 <!--
