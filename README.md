@@ -2,6 +2,7 @@
 
 I'm a Software Engineer specialising in **Machine Learning & Data Science**.  
 I like building things ~~that actually work — from trained classifiers to full-stack apps shipped under hackathon pressure.~~
+
 You know what, I just like building things.
 I am not saying they don't work, I am saying that I didn't like that AI gibberish sentence.
 
